@@ -17,5 +17,16 @@ It was really fun to explore the Bootstrap site to see all it had to offer, and 
 
 ## Link to Website
 https://charliecan2.github.io/responsive-portfolio/about
+https://charliecan2.github.io/responsive-portfolio/contact
+https://charliecan2.github.io/responsive-portfolio/portfolio
 
 ## Screenshots
+https://charliecan2.github.io/responsive-portfolio/screenshots/about-full.png
+https://charliecan2.github.io/responsive-portfolio/screenshots/about-half.png
+https://charliecan2.github.io/responsive-portfolio/screenshots/about-smallest.png
+https://charliecan2.github.io/responsive-portfolio/screenshots/contact-full.png
+https://charliecan2.github.io/responsive-portfolio/screenshots/contact-half.png
+https://charliecan2.github.io/responsive-portfolio/screenshots/contact-smallest.png
+https://charliecan2.github.io/responsive-portfolio/screenshots/portfolio-full.png
+https://charliecan2.github.io/responsive-portfolio/screenshots/portfolio-half.png
+https://charliecan2.github.io/responsive-portfolio/screenshots/portfolio-smallest.png
