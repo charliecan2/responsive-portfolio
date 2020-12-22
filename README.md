@@ -16,6 +16,6 @@ One issue I ran into was getting the placeholder images in the Portfolio section
 It was really fun to explore the Bootstrap site to see all it had to offer, and to search for solutions while designing the page the way you'd like it to be. Sometimes, the page wouldn't be as responsive as I'd like for it to have been, but it made for a great learning experience on how to search for solutions. Overall, it was an enjoyable experience to create this page. And I hope to continue to make it more immersive and interactive as I learn more over time.
 
 ## Link to Website
-
+https://charliecan2.github.io/responsive-portfolio/about
 
 ## Screenshots
