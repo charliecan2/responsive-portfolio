@@ -21,12 +21,9 @@ https://charliecan2.github.io/responsive-portfolio/contact
 https://charliecan2.github.io/responsive-portfolio/portfolio
 
 ## Screenshots
-https://charliecan2.github.io/responsive-portfolio/screenshots/about-full.png
-https://charliecan2.github.io/responsive-portfolio/screenshots/about-half.png
-https://charliecan2.github.io/responsive-portfolio/screenshots/about-smallest.png
-https://charliecan2.github.io/responsive-portfolio/screenshots/contact-full.png
-https://charliecan2.github.io/responsive-portfolio/screenshots/contact-half.png
-https://charliecan2.github.io/responsive-portfolio/screenshots/contact-smallest.png
-https://charliecan2.github.io/responsive-portfolio/screenshots/portfolio-full.png
-https://charliecan2.github.io/responsive-portfolio/screenshots/portfolio-half.png
-https://charliecan2.github.io/responsive-portfolio/screenshots/portfolio-smallest.png
+### About
+![About](./screenshots/about-full.png)
+### Contact
+![Contact](./screenshots/contact-full.png)
+### Portfolio
+![Porfolio](./screenshots/portfolio-full.png)
