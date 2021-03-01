@@ -1,0 +1,11 @@
+footer {
+    background-color: rgb(240, 240, 240);
+}
+#contact-header {
+    font-family: 'PT Serif', serif;
+    text-align: left;
+    margin-left: 20px;
+}
+a:any-link {
+    color: black;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "responsive-portfolio",
+  "version": "1.0.0",
+  "description": "In this project, I decided to develop a portfolio page where I, and others, can keep track of the projects I have worked on throughout the course of my career. Having a place where I can monitor my progress seems essential as a Developer. It'd also be nice to look back at how my earlier, and even later works, have turned out over time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charliecan2/responsive-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charliecan2/responsive-portfolio/issues"
+  },
+  "homepage": "https://github.com/charliecan2/responsive-portfolio#readme",
+  "dependencies": {
+    "bootstrap-icons": "^1.4.0"
+  }
+}
