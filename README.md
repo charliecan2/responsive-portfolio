@@ -19,11 +19,3 @@ It was really fun to explore the Bootstrap site to see all it had to offer, and 
 https://charliecan2.github.io/responsive-portfolio/about
 https://charliecan2.github.io/responsive-portfolio/contact
 https://charliecan2.github.io/responsive-portfolio/portfolio
-
-## Screenshots
-### About
-![About](./screenshots/about-full.png)
-### Contact
-![Contact](./screenshots/contact-full.png)
-### Portfolio
-![Porfolio](./screenshots/portfolio-full.png)
