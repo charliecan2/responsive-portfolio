@@ -1,0 +1,55 @@
+body {
+    background: url(https://i.imgur.com/obmijPZ.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: darken;
+}
+#contact-header {
+    font-family: 'PT Serif', serif;
+    text-align: left;
+    margin-left: 20px;
+}
+a:any-link {
+    color: black;
+}
+.nameHeader {
+    text-align: center;
+    margin-top: 200px;
+    font-family: 'IMB Plex Sans', sans-serif;
+}
+#nameHead {
+    margin-right: 13px;
+    font-size: 48px;
+    font-weight: 700px;
+    color: rgb(224, 224, 224);
+}
+#titleHead {
+    padding: 18px;
+    font-size: 32px;
+    font-weight: 400px;
+    color: rgb(224, 224, 224);
+}
+.profLinks {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 300;
+    padding: 10px;
+    margin: 4px;
+}
+.card {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-header {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 28px;
+}
+.card-title {
+    text-decoration: underline;
+}
+.card-text {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 400px;
+}
